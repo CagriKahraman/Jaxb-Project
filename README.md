@@ -1,6 +1,7 @@
 # Jaxb-Project 
 # XML used to in project
 
+```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <userlist>
     <user>
@@ -24,6 +25,7 @@
         </job>
     </user>
 </userlist>
+```
 
 # Convert Java Object -> XML Data
 
